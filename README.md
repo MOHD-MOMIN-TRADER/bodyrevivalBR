@@ -29,17 +29,39 @@ TailwindCSS
 Firebase Firestore & Auth
 
 Vercel (Hosting & CI/CD)
+
+
 📦 How to Run
 
 Install dependencies:
+
 npm install
+
+
 Start development:
+
 npm run dev
+
+
 Build for production:
+
 npm run build
+
+
 Preview production build:
+
 npm run preview
+
+🔧 Environment Variables
+VITE_FIREBASE_API_KEY=
+VITE_FIREBASE_AUTH_DOMAIN=
+VITE_FIREBASE_PROJECT_ID=
+VITE_FIREBASE_STORAGE=
+VITE_FIREBASE_MESSAGING=
+VITE_FIREBASE_APP_ID=
+
 👤 Author
 
 MOHD MOMIN
-Built with a simple and clean approach for Body Revival BR
+Built with a simple and clean approach for Body Revival BR.
+
